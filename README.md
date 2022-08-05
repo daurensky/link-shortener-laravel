@@ -1,3 +1,4 @@
-# Short links app
+# Link shortener
 
-Based on Laravel
+## About
+Simple link shortener wriiten on Laravel.
